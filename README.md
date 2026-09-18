@@ -12,7 +12,7 @@ Laboratório prático da disciplina Back-end Frameworks.
 git --version
 git config --global user.name "SEU NOME"
 git config --global user.email "SEU EMAIL"
-
+v
 git init
 git status
 git add .
